@@ -1,1 +1,2 @@
-Landing Page Itau criada com NextJs e Tailwind. 
+Landing Page do Itau criada com NextJs e Tailwind. 
+
